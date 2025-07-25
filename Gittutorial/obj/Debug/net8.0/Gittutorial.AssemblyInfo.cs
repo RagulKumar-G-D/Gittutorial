@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gittutorial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b81c1174c2b86f4c983e4dd0460c35aae6b9670")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gittutorial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gittutorial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
